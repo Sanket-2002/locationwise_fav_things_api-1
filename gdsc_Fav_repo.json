@@ -57,6 +57,35 @@
          ]
    
    
+       },
+    {
+
+        "id":1,
+       "location": "himachalpradesh",    
+
+
+       "fav_things":[
+           { "id":2,
+           "name": "Sanket",
+           "food":"Dhaam",
+           "place": "Kullu and Manali",
+           "shops": "Manu Dhaba",
+           "mall":"The good shoping complex",
+           "restuarant":"The corner house restuarant",
+           "date":"30/9/2022"
+          },
+          { "id":3,
+           "name": "Sanket",
+           "food":"Tudkiya Bhath.",
+           "place": "shimla",
+           "shops": "nathuram lachman das",
+           "mall":"shimla central mall",
+           "restuarant":"himachali rasoi",
+           "date":"30/9/2022"
+          }
+         ]
+
+
        }
 ]
 
